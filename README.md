@@ -1,4 +1,4 @@
-# login_singup
+# Login and Cadastro
 
 A new Flutter project.
 
