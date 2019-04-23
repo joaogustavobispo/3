@@ -1,6 +1,6 @@
 # Login and Cadastro
 
-A new Flutter project.
+Criado por João Gustavo Soares Bispo
 
 ## Getting Started
 
